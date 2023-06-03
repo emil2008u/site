@@ -1,0 +1,30 @@
+p {
+	color: pink;
+	background-color: lightblue;
+	font-size: 50px
+}
+table {
+	border: double 5px blue;
+	width: 50%;
+	background-color: linear-gradient(#000,#00f,#ff0,#f0f,#fff,#FFA07A,#800080,#808000)
+}
+th,td {
+	border: solid 2px green;
+	width: 25px;
+	height: 1cm;
+	font-size: 24px;
+}
+tr:hover {
+	background-color: grey;
+}
+td:hover {
+	background-image: url(https://i.gifer.com/origin/c1/c1fc10fc795a39a7b0fecdf9fea98608.gif);
+	text-align: center;
+	font-size: 2em;
+	color: #fff
+}
+caption {
+	font-size: 50px;
+	color: darkblue;
+	text-transform: uppercase;
+}
